@@ -1,52 +1,76 @@
-# 🎨 Data-Driven Creative Portfolio
+# Final Capstone: Wep development online website
 
-A fully responsive, vibrant one-page portfolio website for a **Data Analyst** with multidisciplinary expertise in:
+# Desktop Version
+![](/screenshot1.png)
 
-- 📊 Data Analytics & Visualization
-- 🌐 Web Development
-- 📣 Digital Marketing & Campaign Strategy
-- 📷 Photography
-- 🎨 Branding & Graphic Design
+# Mobile Version
+![](/projectImage.JPG)
 
----
+> This project is a part of microverse training program. It was build using HTML5, CSS, JavaScript and BS5.
+It is a web application for a web development boot camp. In this project I implemented the following:
 
-## 🚀 Features
+1) [The home page] with all it markup and then use BS5 classes for styling the home page.
+I also use some custom CSS to over write Some of the BS5 classes.
+I also Used javaScript to dynamically generate the featured Instructors Section of the home page
 
-- **Hero Section** with name, tagline, and CTA
-- **About Me** section with animated counters
-- **Portfolio** with 8+ filterable project cards and modal support
-- **Services** showcased with icons and brief descriptions
-- **Contact Form** using [Formspree](https://formspree.io/)
-- **Sticky Navbar** and **Smooth Scrolling**
-- **Dark/Light Mode** toggle
-- **AI Chatbot Placeholder** (expandable with OpenAI API)
-- **Fully responsive** with Bootstrap 5 (mobile-first design)
+2) [The about page]: with all it markup and used BS5 classes for styling and some custom CSS to over write some the BS5 classes
 
----
+3)[The close button] with it markup and styling and Added javaScript.
 
-## 🎯 Tech Stack
+## Video Description 
+Video description link[Video](https://www.loom.com/share/777ee4f15993418ea31e0fac91c2907c)
 
-- HTML5, CSS3 (Custom + Bootstrap 5)
-- JavaScript (Vanilla)
-- Font Awesome for icons
-- Google Fonts (optional)
-- Formspree for contact submissions
+## Built With
 
----
+- HTML5, CSS and JavaScript
+- BOOTSTRAP 5
+- GITHUB and VSCODE
 
-## 🎨 Color Palette
+## Live Demo (if available)
 
-| Role            | Color Name       | Hex Code    |
-|------------------|------------------|-------------|
-| Primary          | Royal/Navy Blue  | `#1e3a8a`   |
-| Accent           | Sky Blue         | `#3b82f6`   |
-| Highlight        | Yellow           | `#facc15`   |
-| Background       | White            | `#ffffff`   |
-| Text/Base        | Dark Gray        | `#333333`   |
+[Live Demo Link](https://ndorrh.github.io/final-capstone/)
 
-> **Tip:** Uses the 60-30-10 rule for color distribution and ensures accessibility compliance.
 
----
+## Getting Started
 
-## 📁 File Structure
+To get a local copy up and running follow these simple example steps.
 
+### Prerequisites
+- A computer or mobile phone.
+- Access to Internet Connection on the devices.
+### Setup
+- Click on the live demo link and visit the site. There you can browse through all the content on the site
+### Install
+- No installation is required. Just visit the website on your computer or smart phone
+### Usage
+- You can use this website to participate in our upcoming web development bootcamp and learn web development
+### Run tests
+No testing is required
+### Deployment
+The App is already deployed for you using Github pages
+
+
+## Authors
+
+👤 **Author**
+
+- GitHub: [@githubhandle](https://github.com/ndorrh)
+- Twitter: [@twitterhandle](https://twitter.com/ndorrh)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ndorrh-oswald-ebu-82ab02236/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/ndorrh/final-capstone/issues/1).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+-  Cindy Shin [Design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015). 
+-  Creative Commons license of the design
+## 📝 License
+
+This project is [MIT](/MIT.md) licensed.
